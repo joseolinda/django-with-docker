@@ -1,0 +1,13 @@
+.venv
+.git
+.idea
+# Compiled source #
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+# Folder pycache #
+__pycache__
+# Database #
+*.sqlite3

@@ -1,0 +1,7 @@
+.venv
+.git
+.gitignore
+.idea
+# Compiled source #
+*.pyc
+__pycache__
